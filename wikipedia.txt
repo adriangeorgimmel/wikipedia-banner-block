@@ -5,3 +5,4 @@ wikipedia.org##[id$=“banner-nag”]
 wikipedia.org###frb-inline
 wikipedia.org##.cn-fundraising
 de.wikipedia.org##.wmde-banner-main
+wikipedia.org##.wmde-banner-main
