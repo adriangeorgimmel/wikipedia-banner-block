@@ -1,0 +1,7 @@
+[Adblock Plus 1.1]
+wikipedia.org##.nag-trigger
+wikipedia.org###centralNotice
+wikipedia.org##[id$=“banner-nag”]
+wikipedia.org###frb-inline
+wikipedia.org##.cn-fundraising
+de.wikipedia.org##.wmde-banner-main
